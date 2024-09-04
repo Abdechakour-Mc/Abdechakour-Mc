@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on build a GPT-2 like model from scratch<br>🤝 I’m looking for help with Language Models, Multi-models, and ML in general<br>🌱 I’m currently learning Mamba SSM architecture
+🔭 I’m currently working on build a GPT-2 like model from scratch<br>🤝 I’m interested in Language Models, Multi-models, and ML in general<br>🌱 I’m currently learning about Mamba SSM architecture
 
 
 ## 🌐 Socials:
